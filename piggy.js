@@ -123,4 +123,5 @@ document.querySelector(".new").addEventListener("click", function () {
   document.querySelector(".player2 .score").textContent = 0;
   changeCurrentScore();
   add(".player2", ".player1");
+  pl="player 1";
 });
